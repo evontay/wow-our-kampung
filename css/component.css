@@ -3,9 +3,9 @@
 	display: inline-block;
 	margin: 1em;
 	padding: 0;
-	border: none;
+	border: 2px solid #fff;
 	background: none;
-	color: #286aab;
+	/*color: #286aab;*/
 	font-size: 1.4em;
 	overflow: visible;
 	-webkit-transition: color 0.7s;
@@ -956,7 +956,7 @@
 	0% {
 		opacity: 0.7;
 		-webkit-transform: scale3d(0.2, 0.2, 1);
-		transform: scale3d(0.2, 0.2, 1) 
+		transform: scale3d(0.2, 0.2, 1)
 	}
 	100% {
 		opacity: 0;
@@ -969,7 +969,7 @@
 	0% {
 		opacity: 0.7;
 		-webkit-transform: scale3d(0.2, 0.2, 1);
-		transform: scale3d(0.2, 0.2, 1) 
+		transform: scale3d(0.2, 0.2, 1)
 	}
 	100% {
 		opacity: 0;
@@ -987,7 +987,7 @@
 	0% {
 		opacity: 0.7;
 		-webkit-transform: scale3d(0.2, 0.2, 1);
-		transform: scale3d(0.2, 0.2, 1) 
+		transform: scale3d(0.2, 0.2, 1)
 	}
 	100% {
 		opacity: 0;
@@ -1000,7 +1000,7 @@
 	0% {
 		opacity: 0.7;
 		-webkit-transform: scale3d(0.2, 0.2, 1);
-		transform: scale3d(0.2, 0.2, 1) 
+		transform: scale3d(0.2, 0.2, 1)
 	}
 	100% {
 		opacity: 0;

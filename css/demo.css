@@ -138,11 +138,11 @@ a:hover, a:focus {
 }
 
 .box__title {
-	color: rgb(22, 35, 47);
+	color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	font-size: 1.1em;
-	margin-bottom: 1.5em;
+	margin: 15px;
 }
 
 .box__title span {
