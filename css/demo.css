@@ -128,6 +128,15 @@ a:hover, a:focus {
 	text-align: center;
 }
 
+.box p {
+	margin: 0 auto;
+	text-align: left;
+	width: 70%;
+	max-width: 600px;
+	line-height: 1.8;
+	padding-bottom: 20px;
+}
+
 .box__title {
 	color: rgb(22, 35, 47);
 	text-transform: uppercase;
